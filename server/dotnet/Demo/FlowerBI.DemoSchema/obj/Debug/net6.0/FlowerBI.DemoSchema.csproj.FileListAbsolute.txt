@@ -1,0 +1,15 @@
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/bin/Debug/net6.0/FlowerBI.DemoSchema.deps.json
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/bin/Debug/net6.0/FlowerBI.DemoSchema.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/bin/Debug/net6.0/FlowerBI.DemoSchema.pdb
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/bin/Debug/net6.0/FlowerBI.Engine.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/bin/Debug/net6.0/FlowerBI.Engine.pdb
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/obj/Debug/net6.0/FlowerBI.DemoSchema.csproj.AssemblyReference.cache
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/obj/Debug/net6.0/FlowerBI.DemoSchema.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/obj/Debug/net6.0/FlowerBI.DemoSchema.AssemblyInfoInputs.cache
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/obj/Debug/net6.0/FlowerBI.DemoSchema.AssemblyInfo.cs
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/obj/Debug/net6.0/FlowerBI.DemoSchema.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/obj/Debug/net6.0/FlowerBI.DemoSchema.csproj.CopyComplete
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/obj/Debug/net6.0/FlowerBI.DemoSchema.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/obj/Debug/net6.0/refint/FlowerBI.DemoSchema.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/obj/Debug/net6.0/FlowerBI.DemoSchema.pdb
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/Demo/FlowerBI.DemoSchema/obj/Debug/net6.0/ref/FlowerBI.DemoSchema.dll

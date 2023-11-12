@@ -1,0 +1,11 @@
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Tools
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Tools.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Tools.deps.json
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Tools.runtimeconfig.json
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Tools.pdb
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/Dapper.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/Handlebars.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/System.Text.Json.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/YamlDotNet.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Engine.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Engine.pdb

@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine.Tests/FlowerBI.Engine.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine.Tests/FlowerBI.Engine.Tests.csproj": {
+      "version": "4.3.0",
+      "restore": {
+        "projectUniqueName": "/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine.Tests/FlowerBI.Engine.Tests.csproj",
+        "projectName": "FlowerBI.Engine.Tests",
+        "projectPath": "/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine.Tests/FlowerBI.Engine.Tests.csproj",
+        "packagesPath": "/Users/alex/.nuget/packages/",
+        "outputPath": "/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/FlowerBI.Engine.csproj": {
+                "projectPath": "/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/FlowerBI.Engine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/FlowerBI.Engine.csproj": {
+      "version": "4.3.0",
+      "restore": {
+        "projectUniqueName": "/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/FlowerBI.Engine.csproj",
+        "projectName": "FlowerBI.Engine",
+        "projectPath": "/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/FlowerBI.Engine.csproj",
+        "packagesPath": "/Users/alex/.nuget/packages/",
+        "outputPath": "/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Handlebars.Net": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "YamlDotNet": {
+              "target": "Package",
+              "version": "[12.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BiWwoE9IiuyEqrjLckXlKwGtRDUEfbellkMRQQonJi4Hjuc0fNz4ahvGIl2dd2u/QztXOgKwvYC6ofGdcqkUIA==",
+  "success": true,
+  "projectFilePath": "/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/FlowerBI.Engine.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/alex/.nuget/packages/handlebars.net/2.1.2/handlebars.net.2.1.2.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/alex/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/alex/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/alex/.nuget/packages/system.text.json/6.0.2/system.text.json.6.0.2.nupkg.sha512",
+    "/Users/alex/.nuget/packages/yamldotnet/12.3.1/yamldotnet.12.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>FlowerBI.Tools</id>
+    <version>4.3.0</version>
+    <authors>Daniel Earwicker</authors>
+    <description>Command line tools for FlowerBI</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/obj/DotnetToolSettings.xml" target="tools/net6.0/any/DotnetToolSettings.xml" />
+    <file src="/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Tools.dll" target="tools/net6.0/any/FlowerBI.Tools.dll" />
+    <file src="/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Tools.deps.json" target="tools/net6.0/any/FlowerBI.Tools.deps.json" />
+    <file src="/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Tools.runtimeconfig.json" target="tools/net6.0/any/FlowerBI.Tools.runtimeconfig.json" />
+    <file src="/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Tools.pdb" target="tools/net6.0/any/FlowerBI.Tools.pdb" />
+    <file src="/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/Dapper.dll" target="tools/net6.0/any/Dapper.dll" />
+    <file src="/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/Handlebars.dll" target="tools/net6.0/any/Handlebars.dll" />
+    <file src="/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/System.Text.Json.dll" target="tools/net6.0/any/System.Text.Json.dll" />
+    <file src="/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/YamlDotNet.dll" target="tools/net6.0/any/YamlDotNet.dll" />
+    <file src="/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Engine.dll" target="tools/net6.0/any/FlowerBI.Engine.dll" />
+    <file src="/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Tools/bin/Debug/net6.0/publish/FlowerBI.Engine.pdb" target="tools/net6.0/any/FlowerBI.Engine.pdb" />
+  </files>
+</package>

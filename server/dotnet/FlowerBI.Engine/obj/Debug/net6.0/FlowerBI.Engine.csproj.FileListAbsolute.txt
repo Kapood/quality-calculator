@@ -1,0 +1,12 @@
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/bin/Debug/net6.0/FlowerBI.Engine.deps.json
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/bin/Debug/net6.0/FlowerBI.Engine.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/bin/Debug/net6.0/FlowerBI.Engine.pdb
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/obj/Debug/net6.0/FlowerBI.Engine.csproj.AssemblyReference.cache
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/obj/Debug/net6.0/FlowerBI.Engine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/obj/Debug/net6.0/FlowerBI.Engine.AssemblyInfoInputs.cache
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/obj/Debug/net6.0/FlowerBI.Engine.AssemblyInfo.cs
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/obj/Debug/net6.0/FlowerBI.Engine.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/obj/Debug/net6.0/FlowerBI.Engine.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/obj/Debug/net6.0/refint/FlowerBI.Engine.dll
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/obj/Debug/net6.0/FlowerBI.Engine.pdb
+/Users/alex/Documents/Build/test/flowerbi/server/dotnet/FlowerBI.Engine/obj/Debug/net6.0/ref/FlowerBI.Engine.dll

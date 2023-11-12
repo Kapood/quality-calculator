@@ -1,0 +1,12 @@
+<Project>
+    <PropertyGroup>
+        <PackageVersion>4.3.0</PackageVersion>
+        <Authors>Daniel Earwicker</Authors>
+        <PackageOutputPath>./nupkg</PackageOutputPath>
+        <license>MIT</license>
+    </PropertyGroup>
+
+    <PropertyGroup Label="SDK Versions">
+        <NetTargetVersion>net6.0</NetTargetVersion>
+    </PropertyGroup>
+</Project>
